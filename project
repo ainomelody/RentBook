@@ -1,0 +1,33 @@
+<NotepadPlus>
+    <Project name="src">
+        <File name="main.c" />
+        <File name="io.c" />
+        <File name="share.c" />
+        <File name="BookType.c" />
+        <File name="BookInfo.c" />
+        <File name="RentInfo.c" />
+        <File name="query.c" />
+    </Project>
+    <Project name="header">
+        <File name="mainUI.h" />
+        <File name="struct.h" />
+        <File name="share.h" />
+        <File name="io.h" />
+        <File name="BookType.h" />
+        <File name="BookInfo.h" />
+        <File name="RentInfo.h" />
+        <File name="query.h" />
+        <File name="callback.h" />
+        <File name="queryUI.h" />
+    </Project>
+    <Project name="UI">
+        <File name="mainUI.c" />
+        <File name="queryUI.c" />
+    </Project>
+    <Project name="callback">
+        <File name="callback.c" />
+    </Project>
+    <Project name="other">
+        <File name="Makefile" />
+    </Project>
+</NotepadPlus>
